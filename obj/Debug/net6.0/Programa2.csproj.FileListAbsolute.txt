@@ -1,0 +1,15 @@
+C:\Users\MARCO BERNA\Desktop\Programa2\bin\Debug\net6.0\Programa2.exe
+C:\Users\MARCO BERNA\Desktop\Programa2\bin\Debug\net6.0\Programa2.deps.json
+C:\Users\MARCO BERNA\Desktop\Programa2\bin\Debug\net6.0\Programa2.runtimeconfig.json
+C:\Users\MARCO BERNA\Desktop\Programa2\bin\Debug\net6.0\Programa2.dll
+C:\Users\MARCO BERNA\Desktop\Programa2\bin\Debug\net6.0\ref\Programa2.dll
+C:\Users\MARCO BERNA\Desktop\Programa2\bin\Debug\net6.0\Programa2.pdb
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.csproj.AssemblyReference.cache
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.AssemblyInfoInputs.cache
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.AssemblyInfo.cs
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.dll
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\ref\Programa2.dll
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.pdb
+C:\Users\MARCO BERNA\Desktop\Programa2\obj\Debug\net6.0\Programa2.genruntimeconfig.cache
